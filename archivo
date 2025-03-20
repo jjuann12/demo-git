@@ -1,1 +1,7 @@
 nuevo archivo
+
+
+git pull es para traer los archivos desde github a repositorio local 
+git push para pasar cambios desde el repopsitorio local al remoto
+git add es para agregar 
+git commit -m "descripcion" es para guardar en el repositorio local
